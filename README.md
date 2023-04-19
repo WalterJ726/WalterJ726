@@ -8,6 +8,7 @@
 WalterJ726/WalterJ726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://raw.githubusercontent.com/WalterJ726/WalterJ726/main/assets/github-contribution-grid-snake.svg)              
 
 [![Anurag's GitHub stats](https://github-readme-stats-lovat-ten-63.vercel.app/api?username=WalterJ726&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
