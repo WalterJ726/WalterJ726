@@ -26,7 +26,10 @@ jobs:
       - name: Commit Snake SVG
         run: |
           git config --local user.email "walterjiang726@gmail.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "WalterJ726"
           git add .
           git commit -m "Add Snake SVG" || true
+        
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
