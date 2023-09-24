@@ -25,12 +25,8 @@ jobs:
 
       - name: Commit Snake SVG
         run: |
-          git config --local user.email "action@github.com"
+          git config --local user.email "walterjiang726@gmail.com"
           git config --local user.name "GitHub Action"
-          git add ./assets/github-contribution-grid-snake.svg
+          git add .
           git commit -m "Add Snake SVG" || true
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@main
-        with:
-          message: 'Generate Contribution Snake'
