@@ -29,6 +29,7 @@ jobs:
           git config --local user.name "WalterJ726"
           git add .
           git commit -m "Add Snake SVG" || true
+          git push 
         
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
