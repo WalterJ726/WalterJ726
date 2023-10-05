@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WalterJ726
-- 👀 I’m interested in computer architecture and backend related technology.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer architecture, distributed system, data base and backend related technology.
+- 🌱 I’m currently in my gap year now where intern at DJI technology company (https://auto.dji.com/)
+- 💞️ I’m looking to collaborate on distributed system and competitive coding
+- 📫 See my updates on my personal website or say whatever you want to my email(walterjiang726@gmail.com)
 
 <!---
 WalterJ726/WalterJ726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
