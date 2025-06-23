@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WalterJ726
 - 👀 I’m interested in computer architecture, distributed system, database and backend related technology.
-- 🌱 I’m currently work as a backend engineer at ![Tiktok](https://www.tiktok.com/about?lang=en)
+- 🌱 I’m currently work as a backend engineer at [Tiktok](https://www.tiktok.com/about?lang=en)
 - 💞️ I’m looking to collaborate on distributed system and competitive coding
 - 📫 See my updates on my personal website or say whatever you want to my email(walterjiang726@gmail.com)
 
